@@ -2,5 +2,6 @@
 node_modules
 zzfrontity.settings.js
 report.20200322.165044.15892.0.001.json
-build/server.js
+build
 package-lock.json
+packages/mars-theme
