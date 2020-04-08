@@ -1,0 +1,97 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.42.0",
+  "hash": "fa9b71bb7721edf993eb",
+  "publicPath": "/static/",
+  "outputPath": "F:\\_Trabajos\\React\\frontity\\fr-wc\\build\\static",
+  "assetsByChunkName": {
+    "fr-wc": "fr-wc.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "fr-wc.module.js",
+      "size": 12545092,
+      "chunks": [
+        "fr-wc"
+      ],
+      "chunkNames": [
+        "fr-wc"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/iso.svg",
+      "size": 2210,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/logo.svg",
+      "size": 3102,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 9869,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "fr-wc": {
+      "chunks": [
+        "fr-wc"
+      ],
+      "assets": [
+        "fr-wc.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "fr-wc": {
+      "chunks": [
+        "fr-wc"
+      ],
+      "assets": [
+        "fr-wc.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}

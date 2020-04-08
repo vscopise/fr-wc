@@ -1,0 +1,30 @@
+{
+  "name": "fr-wc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@chakra-ui/core": "^0.6.1",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@frontity/core": "^1.5.0",
+    "@frontity/html2react": "^1.2.0",
+    "@frontity/mars-theme": "./packages/mars-theme",
+    "@frontity/tiny-router": "^1.1.0",
+    "@frontity/wp-source": "^1.5.0",
+    "emotion-theming": "^10.0.27",
+    "frontity": "^1.5.1",
+    "frontity-wc-theme": "file:packages/frontity-wc-theme",
+    "react-icons": "^3.9.0",
+    "react-spring": "^8.0.27"
+  }
+}
