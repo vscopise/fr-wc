@@ -9,7 +9,7 @@ import Checkout from './checkout';
 
 const Main = ({ state }) => {
     const data = state.source.get(state.router.link);
-    console.log(data)
+    //console.log(data)
     return (
         <Box>
             {
